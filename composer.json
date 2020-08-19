@@ -1,5 +1,5 @@
 {
-    "name": "laravelhungary/announcement",
+    "name": "alex-ketley/announcement",
     "description": "A simple way of announcements with Laravel",
     "keywords": ["laravel", "announcement", "redis", "hocza"],
     "homepage": "http://hocza.com",
